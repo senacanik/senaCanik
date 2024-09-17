@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
-<h3 align="center">A frontend developer from Istanbul</h3>
-
-- 🌱 I’m currently learning **react**
-
+<h4 align="left">A frontend developer from Istanbul</h4>
 - 📫 How to reach me **senacaliskan03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
