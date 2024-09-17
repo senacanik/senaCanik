@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
 <h4 align="left">A frontend developer from Istanbul</h4>
-- 📫 How to reach me **senacaliskan03@gmail.com**
 
+- 📫 How to reach me <a href="mailto:senacaliskan03@gmail.com">senacaliskan03@gmail.com</a> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/senacanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/senacanik" height="30" width="40" /></a>
