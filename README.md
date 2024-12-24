@@ -4,7 +4,7 @@
 <a href="https://codepen.io/https://codepen.io/senacanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/senacanik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://tr.linkedin.com/in/sena-canik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://tr.linkedin.com/in/sena-canik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17734406/sena-canik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17734406/sena-canik" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/codes.senacnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codes.senacnk/" height="30" width="40" /></a> 
+<a href="https://instagram.com/https://www.instagram.com/withdevsena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com//" height="30" width="40" /></a> 
 </p>
 📫 How to reach me <b> senacaliskan03@gmail.com </b> <br>
 <h3 align="left">Languages and Tools:</h3>
